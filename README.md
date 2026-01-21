@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hello! 👋
+This is where all my random coding projects get pushed, whether it's polished or super Jank.
+
+Memorable Repo's:
+
+Girls Who code Summer Pathways:
+
+[Little Hollow](https://github.com): 
 
 <!--
 **xFork19/xFork19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
