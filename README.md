@@ -3,11 +3,8 @@ Currently using Java and Python, and haved used GML, GDscript, SwiftUI, HTML, CS
 3rd year on an FRC team, wiring the robot like there's no tomorrow.  
 Usually reading a book or playing minecraft.  
 
-### Current Repositories:
-... (your projects) ...
-
-### 📊 My Coding Activity
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 <hr>
 <details>
 <summary>Github Statistics...</summary>
