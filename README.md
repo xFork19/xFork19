@@ -2,13 +2,19 @@
 Currently using Java and Python, and haved used GML, GDscript, SwiftUI, HTML, CSS, and RStudio.  
 3rd year on an FRC team, wiring the robot like there's no tomorrow.  
 Usually reading a book or playing minecraft.  
+
+[Ayushka's GitHub stats](https://github-readme-stats.vercel.app/api?username=xFork19&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
+
 <hr>
 <details>
 <summary>Github Statistics...</summary>
 <p align="center>
 <img scr="https://github-readme-stats.vercel.app/api?username=xFork19&show_icons=true"/>
-
 </p>
+</details>
+<details>
+  
 </details>
 <hr>
 ### Current Repositories:  
