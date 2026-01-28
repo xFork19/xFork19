@@ -15,6 +15,6 @@ jobs:
           base: "" 
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
-          plugin_wakatime_url: https://hackatime.hackclub.com/api/v1
+          plugin_wakatime_url: https://hackatime.hackclub.com/api/hackatime/v1
           plugin_wakatime_sections: time, projects, languages
           plugin_wakatime_days: 7
