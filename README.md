@@ -12,12 +12,6 @@ Usually reading a book or playing minecraft.
     <img src="https://github-readme-stats.vercel.app/api?username=xFork19&show_icons=true" alt="Ayushka's Github Stats"/>
   </p>
 </details>
-<details>
-<summary>Coding Languages...</summary>
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=xFork19&show_icons=true" alt="Ayushka's Github Stats"/>
-  </p>
-</details>
 <hr>
 
 
