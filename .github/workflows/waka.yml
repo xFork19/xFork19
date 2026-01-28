@@ -1,21 +1,20 @@
-name: Waka Readme
-
+name: Metrics
 on:
-  schedule:
-    - cron: "0 0 * * *"
+  schedule: [{cron: "0 0 * * *"}]
   workflow_dispatch:
-
 jobs:
-  update-readme:
-    name: Update Readme with Metrics
+  github-metrics:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - uses: athul/waka-readme@master
+      - uses: lowlighter/metrics@latest
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          API_BASE_URL: https://hackatime.hackclub.com/api/hackatime/v1
-          SHOW_TITLE: true
-          BLOCKS: █
-          TIME_RANGE: last_7_days
-          SHOW_TIME: true
-          SHOW_MASKED_TIME: true
+          token: ${{ secrets.GITHUB_TOKEN }} # This is automatic, don't change it!
+          
+          base: "" # This clears the default GitHub stats
+          plugin_wakatime: yes
+          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
+          plugin_wakatime_endpoint: https://hackatime.hackclub.com/api/v1
+          plugin_wakatime_sections: time, projects, languages
+          plugin_wakatime_days: 7
