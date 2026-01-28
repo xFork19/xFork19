@@ -3,8 +3,8 @@ Currently using Java and Python, and haved used GML, GDscript, SwiftUI, HTML, CS
 3rd year on an FRC team, wiring the robot like there's no tomorrow.  
 Usually reading a book or playing minecraft.  
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+![Metrics](https://github.com/xFork19/xFork19/blob/master/github-metrics.svg)
+
 <hr>
 <details>
 <summary>Github Statistics...</summary>
