@@ -15,7 +15,7 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           # This tells it to use Hackatime instead of WakaTime
-          WAKATIME_API_URL: https://hackatime.hackclub.com/api/v1
+          API_BASE_URL: https://hackatime.hackclub.com/api/v1
           SHOW_TITLE: true
           BLOCKS: █
           TIME_RANGE: last_7_days
