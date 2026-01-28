@@ -2,7 +2,15 @@
 Currently using Java and Python, and haved used GML, GDscript, SwiftUI, HTML, CSS, and RStudio.  
 3rd year on an FRC team, wiring the robot like there's no tomorrow.  
 Usually reading a book or playing minecraft.  
+<hr>
+<details>
+<summary>Github Statistics...</summary>
+<p align="center>
+<img scr="https://github-readme-stats.vercel.app/api?username=xFork19&show_icons=true"/>
 
+</p>
+</details>
+<hr>
 ### Current Repositories:  
 ##### Memorable Repo's:
 
