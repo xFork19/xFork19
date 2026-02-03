@@ -31,6 +31,6 @@ Usually reading a book or playing minecraft.
 <sup>
 
 ##### Girls who code Fall pathways (2025):  
-<sup>HTML: [Personal Website](https://github.com/xFork19/Ayushka-Taleles-website), [Personality Quiz](https://github.com/xFork19/Ayushkas-Personality-Quiz), [Alzheimers Website](https://github.com/xFork19/Alzheimers-Awareness).  
+<sup>HTML, CSS: [Personal Website](https://github.com/xFork19/Ayushka-Taleles-website), [Personality Quiz](https://github.com/xFork19/Ayushkas-Personality-Quiz), [Alzheimers Website](https://github.com/xFork19/Alzheimers-Awareness).  
 Python:  [CyHelp](https://github.com/xFork19/Ayushka-T-CyHelp), [BreachBot](https://github.com/xFork19/Ayushka-T-Breach-Bot), [Caesar Cypher](https://github.com/xFork19/Ayushka-T-Caesars-Cipher) ,
 [Advanced Caesar Cypher](https://github.com/xFork19/Ayushka-T-Advanced-Caesars-Cipher), [Ceaser Cypher Breaker](https://github.com/xFork19/Ayushka-TCracking-Caesars-Cipher).  <sup>
