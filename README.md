@@ -1,9 +1,10 @@
 ## Hello! My name is Ayushka.
-Currently using Java and Python, and haved used GML, GDscript, SwiftUI, HTML, CSS, and RStudio.  
+Currently using Java, Javascript and Python, and haved used GML, GDscript, SwiftUI, HTML, CSS, and RStudio.  
 3rd year on an FRC team, wiring the robot like there's no tomorrow.  
-Usually reading a book or playing minecraft.  
+Usually reading a book or playing minecraft.
+Cstate CCP student, (Hello Mr. Carpenter!)
 
-![Metrics](github-metrics.svg)
+<!--![Metrics](github-metrics.svg)-->
 
 <hr>
 <details>
