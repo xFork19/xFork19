@@ -1,4 +1,4 @@
-## Hello! My name is Ayushka.
+## Hello! My name is Ayushka Talele.
 Currently using Java, Javascript and Python, and haved used GML, GDscript, SwiftUI, HTML, CSS, and RStudio.  
 3rd year on an FRC team, wiring the robot like there's no tomorrow.  
 Usually reading a book or playing minecraft.
