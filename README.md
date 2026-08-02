@@ -16,25 +16,24 @@ Trying my hand at crocheting and 3d modeling.
 </details>
 <hr>
 
-## Languages
-[![Static Badge](https://img.shields.io/badge/Javascript-.js-yellow?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&logoSize=auto&labelColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Static Badge](https://img.shields.io/badge/HTML-.html-%23E34F26?style=for-the-badge&logo=html5&logoColor=%23E34F26&logoSize=auto&labelColor=black)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![Static Badge](https://img.shields.io/badge/CSS-.css-%23663399?style=for-the-badge&logo=css&logoColor=%23663399&logoSize=auto&labelColor=black&color=%23663399)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![Static Badge](https://img.shields.io/badge/R-.r-%23276DC3?style=for-the-badge&logo=r&logoColor=%23276DC3&logoSize=auto&labelColor=black&color=%23276DC3)](https://www.r-project.org/)
-[![Static Badge](https://img.shields.io/badge/SwiftUI-.swift-%23F05138?style=for-the-badge&logo=css&logoColor=%23F05138&logoSize=auto&labelColor=black&color=%23F05138)](https://developer.apple.com/swiftui/)
-[![Static Badge](https://img.shields.io/badge/Python-.py-%23E34F26?style=for-the-badge&logo=python&logoColor=%233776AB&logoSize=auto&labelColor=black&color=%233776AB)](https://www.python.org/)
-[![Static Badge](https://img.shields.io/badge/Java-.java-%235382A1?style=for-the-badge&logo=openjdk&logoColor=%235382A1&logoSize=auto&labelColor=black&color=%235382A1)](https://www.java.com/en/)
+Languages:
+[![Static Badge](https://img.shields.io/badge/HTML-.html-%23E34F26?style=flat-square&logo=html5&logoColor=%23E34F26&logoSize=auto&labelColor=black)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![Static Badge](https://img.shields.io/badge/SwiftUI-.swift-%23F05138?style=flat-square&logo=css&logoColor=%23F05138&logoSize=auto&labelColor=black&color=%23F05138)](https://developer.apple.com/swiftui/)
+[![Static Badge](https://img.shields.io/badge/Javascript-.js-yellow?style=flat-square&logo=javascript&logoColor=%23F7DF1E&logoSize=auto&labelColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Static Badge](https://img.shields.io/badge/CSS-.css-%23663399?style=flat-square&logo=css&logoColor=%23663399&logoSize=auto&labelColor=black&color=%23663399)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Static Badge](https://img.shields.io/badge/R-.r-%23276DC3?style=flat-square&logo=r&logoColor=%23276DC3&logoSize=auto&labelColor=black&color=%23276DC3)](https://www.r-project.org/)
+[![Static Badge](https://img.shields.io/badge/Python-.py-%23E34F26?style=flat-square&logo=python&logoColor=%233776AB&logoSize=auto&labelColor=black&color=%233776AB)](https://www.python.org/)
+[![Static Badge](https://img.shields.io/badge/Java-.java-%235382A1?style=flat-square&logo=openjdk&logoColor=%235382A1&logoSize=auto&labelColor=black&color=%235382A1)](https://www.java.com/en/)
 
 
-## Platforms
-[![Static Badge](https://img.shields.io/badge/Gamemaker-.gml-%23000000?style=for-the-badge&logo=gamemaker&logoColor=grey&logoSize=auto&labelColor=black&color=grey)](https://gamemaker.io/en)
-[![Static Badge](https://img.shields.io/badge/Blender-.toml-%23E87D0D?style=for-the-badge&logo=blender&logoColor=%23E87D0D&logoSize=auto&labelColor=black&color=%23E87D0D)](https://www.blender.org/)
-[![Static Badge](https://img.shields.io/badge/Godot%20Engine-.gd-%23478CBF?style=for-the-badge&logo=godot%20engine&logoColor=%23478CBF&logoSize=auto&labelColor=black&color=%23478CBF)](https://godotengine.org/)
-[![Static Badge](https://img.shields.io/badge/Replit-.replit-%23F26207?style=for-the-badge&logo=replit&logoColor=%23F26207&logoSize=auto&labelColor=black&color=%23F26207)](https://replit.com/)
-[![Static Badge](https://img.shields.io/badge/Github-.git-%23181717?style=for-the-badge&logo=github&logoColor=%239E95B7&logoSize=auto&labelColor=black&color=%239E95B7)](https://github.com/)
-[![Static Badge](https://img.shields.io/badge/Itch.io-.zip-%23FA5C5C?style=for-the-badge&logo=itch.io&logoColor=%23FA5C5C&logoSize=auto&labelColor=black&color=%23FA5C5C)](https://itch.io/)
-[![Static Badge](https://img.shields.io/badge/Posit-.r-%23447099?style=for-the-badge&logo=posit&logoColor=%23447099&logoSize=auto&labelColor=black&color=%23447099)](https://posit.co/downloads)
-
+Platforms:
+[![Static Badge](https://img.shields.io/badge/Itch.io-.zip-%23FA5C5C?style=flat-square&logo=itch.io&logoColor=%23FA5C5C&logoSize=auto&labelColor=black&color=%23FA5C5C)](https://itch.io/)
+[![Static Badge](https://img.shields.io/badge/Replit-.replit-%23F26207?style=flat-square&logo=replit&logoColor=%23F26207&logoSize=auto&labelColor=black&color=%23F26207)](https://replit.com/)
+[![Static Badge](https://img.shields.io/badge/Blender-.toml-%23E87D0D?style=flat-square&logo=blender&logoColor=%23E87D0D&logoSize=auto&labelColor=black&color=%23E87D0D)](https://www.blender.org/)
+[![Static Badge](https://img.shields.io/badge/Godot%20Engine-.gd-%23478CBF?style=flat-square&logo=godot%20engine&logoColor=%23478CBF&logoSize=auto&labelColor=black&color=%23478CBF)](https://godotengine.org/)
+[![Static Badge](https://img.shields.io/badge/Posit-.r-%23447099?style=flat-square&logo=posit&logoColor=%23447099&logoSize=auto&labelColor=black&color=%23447099)](https://posit.co/downloads)
+[![Static Badge](https://img.shields.io/badge/Github-.git-%23181717?style=flat-square&logo=github&logoColor=%239E95B7&logoSize=auto&labelColor=black&color=%239E95B7)](https://github.com/)
+[![Static Badge](https://img.shields.io/badge/Gamemaker-.gml-%23000000?style=flat-square&logo=gamemaker&logoColor=grey&logoSize=auto&labelColor=black&color=grey)](https://gamemaker.io/en)
 
 ## Repositories list:  
 ##### Memorable Repo's:
