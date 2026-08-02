@@ -10,11 +10,9 @@ Usually reading a book or playing minecraft.
 <summary>Github Statistics...</summary>
   <p align="center">
     
-    ![GitHub Stats](profile/stats.svg)
-    
-    ![Top Languages](profile/top-langs.svg)
-    
-    ![Pinned Repo](profile/pin-stats-organization-github-readme-stats.svg)
+  ![GitHub Stats](profile/stats.svg)   
+  ![Top Languages](profile/top-langs.svg)   
+  ![Pinned Repo](profile/pin-stats-organization-github-readme-stats.svg)
     
 </details>
 <hr>
@@ -26,6 +24,8 @@ Usually reading a book or playing minecraft.
 ![Static Badge](https://img.shields.io/badge/R-.r-%23276DC3?style=for-the-badge&logo=r&logoColor=%23276DC3&logoSize=auto&labelColor=black&color=%23276DC3)
 ![Static Badge](https://img.shields.io/badge/SwiftUI-.swift-%23F05138?style=for-the-badge&logo=css&logoColor=%23F05138&logoSize=auto&labelColor=black&color=%23F05138)
 ![Static Badge](https://img.shields.io/badge/Python-.py-%23E34F26?style=for-the-badge&logo=python&logoColor=%233776AB&logoSize=auto&labelColor=black&color=%233776AB)
+![Static Badge](https://img.shields.io/badge/Java-.java-%235382A1?style=for-the-badge&logo=openjdk&logoColor=%235382A1&logoSize=auto&labelColor=black&color=%235382A1)
+
 
 ## Platforms
 ![Static Badge](https://img.shields.io/badge/Gamemaker-.gml-%23000000?style=for-the-badge&logo=gamemaker&logoColor=grey&logoSize=auto&labelColor=black&color=grey)
@@ -33,6 +33,8 @@ Usually reading a book or playing minecraft.
 ![Static Badge](https://img.shields.io/badge/Godot%20Engine-.gd-%23478CBF?style=for-the-badge&logo=godot%20engine&logoColor=%23478CBF&logoSize=auto&labelColor=black&color=%23478CBF)
 ![Static Badge](https://img.shields.io/badge/Replit-.replit-%23F26207?style=for-the-badge&logo=replit&logoColor=%23F26207&logoSize=auto&labelColor=black&color=%23F26207)
 ![Static Badge](https://img.shields.io/badge/Github-.git-%23181717?style=for-the-badge&logo=github&logoColor=%239E95B7&logoSize=auto&labelColor=black&color=%239E95B7)
+![Static Badge](https://img.shields.io/badge/Itch.io-.zip-%23FA5C5C?style=for-the-badge&logo=itch.io&logoColor=%23FA5C5C&logoSize=auto&labelColor=black&color=%23FA5C5C)
+![Static Badge](https://img.shields.io/badge/Posit-.r-%23447099?style=for-the-badge&logo=posit&logoColor=%23447099&logoSize=auto&labelColor=black&color=%23447099)
 
 
 
@@ -60,3 +62,6 @@ Python:  [CyHelp](https://github.com/xFork19/Ayushka-T-CyHelp), [BreachBot](http
 ### Contacts
 ![Static Badge](https://img.shields.io/badge/Instagram-%23FF0069?style=plastic&logo=instagram&logoColor=%23FF0069&logoSize=auto&labelColor=black&color=%23FF0069)
 ![Static Badge](https://img.shields.io/badge/Gmail-%23181717?style=plastic&logo=gmail&logoColor=%23EA4335&logoSize=auto&labelColor=black&color=%23EA4335)
+![Static Badge](https://img.shields.io/badge/Substack-%23FF6719?style=plastic&logo=substack&logoColor=%23FF6719&logoSize=auto&labelColor=black&color=%23FF6719)
+![Static Badge](https://img.shields.io/badge/Snapchat-%23FFFC00?style=plastic&logo=snapchat&logoColor=%23FFFC00&logoSize=auto&labelColor=black&color=%23FFFC00)
+![Static Badge](https://img.shields.io/badge/Discord-%235865F2?style=plastic&logo=discord&logoColor=%235865F2&logoSize=auto&labelColor=black&color=%235865F2)
