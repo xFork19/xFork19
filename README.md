@@ -10,7 +10,7 @@ Cstate CCP student, (Hello Mr. Carpenter!)
 <details>
 <summary>Github Statistics...</summary>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=xFork19&show_icons=true" alt="Ayushka's Github Stats"/>
+    [![Ayushka's GitHub stats](https://github-readme-stats.vercel.app/api?username=xFork19)](https://github.com/xFork19/github-readme-stats)
   </p>
 </details>
 <hr>
