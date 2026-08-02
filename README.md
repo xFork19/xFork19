@@ -30,7 +30,7 @@ Trying my hand at crocheting and 3d modeling.
 [![Static Badge](https://img.shields.io/badge/Gamemaker-.gml-%23000000?style=for-the-badge&logo=gamemaker&logoColor=grey&logoSize=auto&labelColor=black&color=grey)](https://gamemaker.io/en)
 [![Static Badge](https://img.shields.io/badge/Blender-.toml-%23E87D0D?style=for-the-badge&logo=blender&logoColor=%23E87D0D&logoSize=auto&labelColor=black&color=%23E87D0D)](https://www.blender.org/)
 [![Static Badge](https://img.shields.io/badge/Godot%20Engine-.gd-%23478CBF?style=for-the-badge&logo=godot%20engine&logoColor=%23478CBF&logoSize=auto&labelColor=black&color=%23478CBF)](https://godotengine.org/)
-[![Static Badge](https://img.shields.io/badge/Replit-.replit-%23F26207?style=for-the-badge&logo=replit&logoColor=%23F26207&logoSize=auto&labelColor=black&color=%23F26207)](https://replit.com/~)
+[![Static Badge](https://img.shields.io/badge/Replit-.replit-%23F26207?style=for-the-badge&logo=replit&logoColor=%23F26207&logoSize=auto&labelColor=black&color=%23F26207)](https://replit.com/)
 [![Static Badge](https://img.shields.io/badge/Github-.git-%23181717?style=for-the-badge&logo=github&logoColor=%239E95B7&logoSize=auto&labelColor=black&color=%239E95B7)](https://github.com/)
 [![Static Badge](https://img.shields.io/badge/Itch.io-.zip-%23FA5C5C?style=for-the-badge&logo=itch.io&logoColor=%23FA5C5C&logoSize=auto&labelColor=black&color=%23FA5C5C)](https://itch.io/)
 [![Static Badge](https://img.shields.io/badge/Posit-.r-%23447099?style=for-the-badge&logo=posit&logoColor=%23447099&logoSize=auto&labelColor=black&color=%23447099)](https://posit.co/downloads)
@@ -60,6 +60,9 @@ Python:  [CyHelp](https://github.com/xFork19/Ayushka-T-CyHelp), [BreachBot](http
 ### Contacts and Content
 [![Static Badge](https://img.shields.io/badge/Instagram-%23FF0069?style=plastic&logo=instagram&logoColor=%23FF0069&logoSize=auto&labelColor=black&color=%23FF0069)](https://www.instagram.com/ayushkatalele/)
 [![Static Badge](https://img.shields.io/badge/Gmail-%23181717?style=plastic&logo=gmail&logoColor=%23EA4335&logoSize=auto&labelColor=black&color=%23EA4335)](mailto:27ayushkat@gmail.com)
+[![Static Badge](https://img.shields.io/badge/Itch.io-.zip-%23FA5C5C?style=plastic&logo=itch.io&logoColor=%23FA5C5C&logoSize=auto&labelColor=black&color=%23FA5C5C)](https://koolaidxxx.itch.io/)
 [![Static Badge](https://img.shields.io/badge/Substack-%23FF6719?style=plastic&logo=substack&logoColor=%23FF6719&logoSize=auto&labelColor=black&color=%23FF6719)](https://substack.com/@onceuponatime19)
-[![Static Badge](https://img.shields.io/badge/Snapchat-%23FFFC00?style=plastic&logo=snapchat&logoColor=%23FFFC00&logoSize=auto&labelColor=black&color=%23FFFC00)](https://koolaidxxx.itch.io/)
+[![Static Badge](https://img.shields.io/badge/Snapchat-%23FFFC00?style=plastic&logo=snapchat&logoColor=%23FFFC00&logoSize=auto&labelColor=black&color=%23FFFC00)](https://www.snapchat.com/add/ayushka24t)
+[![Static Badge](https://img.shields.io/badge/Spotify-%231ED760?style=plastic&logo=spotify&logoColor=%231ED760&labelColor=black&color=%231ED760)](https://open.spotify.com/user/w4h7z5a2efd5v1m6fomgdkxos)
 [![Static Badge](https://img.shields.io/badge/Discord-%235865F2?style=plastic&logo=discord&logoColor=%235865F2&logoSize=auto&labelColor=black&color=%235865F2)](https://discord.com/users/797293432372330497)
+
