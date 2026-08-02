@@ -10,11 +10,34 @@ Usually reading a book or playing minecraft.
 <summary>Github Statistics...</summary>
   <p align="center">
     
+    ![GitHub Stats](profile/stats.svg)
+    
+    ![Top Languages](profile/top-langs.svg)
+    
+    ![Pinned Repo](profile/pin-stats-organization-github-readme-stats.svg)
+    
 </details>
 <hr>
 
+## Languages
+![Static Badge](https://img.shields.io/badge/Javascript-.js-yellow?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&logoSize=auto&labelColor=black)
+![Static Badge](https://img.shields.io/badge/HTML-.html-%23E34F26?style=for-the-badge&logo=html5&logoColor=%23E34F26&logoSize=auto&labelColor=black)
+![Static Badge](https://img.shields.io/badge/CSS-.css-%23663399?style=for-the-badge&logo=css&logoColor=%23663399&logoSize=auto&labelColor=black&color=%23663399)
+![Static Badge](https://img.shields.io/badge/R-.r-%23276DC3?style=for-the-badge&logo=r&logoColor=%23276DC3&logoSize=auto&labelColor=black&color=%23276DC3)
+![Static Badge](https://img.shields.io/badge/SwiftUI-.swift-%23F05138?style=for-the-badge&logo=css&logoColor=%23F05138&logoSize=auto&labelColor=black&color=%23F05138)
+![Static Badge](https://img.shields.io/badge/Python-.py-%23E34F26?style=for-the-badge&logo=python&logoColor=%233776AB&logoSize=auto&labelColor=black&color=%233776AB)
 
-### Repositories list:  
+## Platforms
+![Static Badge](https://img.shields.io/badge/Gamemaker-.gml-%23000000?style=for-the-badge&logo=gamemaker&logoColor=grey&logoSize=auto&labelColor=black&color=grey)
+![Static Badge](https://img.shields.io/badge/Blender-.toml-%23E87D0D?style=for-the-badge&logo=blender&logoColor=%23E87D0D&logoSize=auto&labelColor=black&color=%23E87D0D)
+![Static Badge](https://img.shields.io/badge/Godot%20Engine-.gd-%23478CBF?style=for-the-badge&logo=godot%20engine&logoColor=%23478CBF&logoSize=auto&labelColor=black&color=%23478CBF)
+![Static Badge](https://img.shields.io/badge/Replit-.replit-%23F26207?style=for-the-badge&logo=replit&logoColor=%23F26207&logoSize=auto&labelColor=black&color=%23F26207)
+![Static Badge](https://img.shields.io/badge/Github-.git-%23181717?style=for-the-badge&logo=github&logoColor=%239E95B7&logoSize=auto&labelColor=black&color=%239E95B7)
+
+
+
+
+## Repositories list:  
 ##### Memorable Repo's:
 
 <sup>[Create Task](https://github.com/xFork19/Create-Task): 2024 AP exam submission.  
@@ -24,12 +47,16 @@ Usually reading a book or playing minecraft.
 <sup>  
 
 ##### Girls Who code Summer Immersion Program (2025):  
-<sup>[Little Hollow](https://github.com/xFork19/Little-Hollow): 3 day game jam result, 40 hours.  
-[Abandoned School Analoug](https://github.com/xFork19/Abandoned-School-Analoug-AT): CYOA game, multiple endings.  
-[Collection Game](https://github.com/xFork19/Collection-Game-AT): Mario Styled.  
+<sup>[Little Hollow](https://github.com/xFork19/Little-Hollow): 3 day game jam result, 40 hours. Figure out how to wake up using a ... guitar?   
+[Abandoned School Analoug](https://github.com/xFork19/Abandoned-School-Analoug-AT): CYOA game. Escape the haunted building. multiple endings.  
+[Collection Game](https://github.com/xFork19/Collection-Game-AT): Mario Styled collection game. Grab coins, avoid the bombs 
 <sup>
 
 ##### Girls who code Fall pathways (2025):  
 <sup>HTML, CSS: [Personal Website](https://github.com/xFork19/Ayushka-Taleles-website), [Personality Quiz](https://github.com/xFork19/Ayushkas-Personality-Quiz), [Alzheimers Website](https://github.com/xFork19/Alzheimers-Awareness).  
 Python:  [CyHelp](https://github.com/xFork19/Ayushka-T-CyHelp), [BreachBot](https://github.com/xFork19/Ayushka-T-Breach-Bot), [Caesar Cypher](https://github.com/xFork19/Ayushka-T-Caesars-Cipher) ,
 [Advanced Caesar Cypher](https://github.com/xFork19/Ayushka-T-Advanced-Caesars-Cipher), [Ceaser Cypher Breaker](https://github.com/xFork19/Ayushka-TCracking-Caesars-Cipher).  <sup>
+
+### Contacts
+![Static Badge](https://img.shields.io/badge/Instagram-%23FF0069?style=plastic&logo=instagram&logoColor=%23FF0069&logoSize=auto&labelColor=black&color=%23FF0069)
+![Static Badge](https://img.shields.io/badge/Gmail-%23181717?style=plastic&logo=gmail&logoColor=%23EA4335&logoSize=auto&labelColor=black&color=%23EA4335)
