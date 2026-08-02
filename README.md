@@ -10,7 +10,7 @@ Cstate CCP student, (Hello Mr. Carpenter!)
 <details>
 <summary>Github Statistics...</summary>
   <p align="center">
-    [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=xFork19)](https://github.com/stats-organization/github-stats-extended)
+    
 </details>
 <hr>
 
