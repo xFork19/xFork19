@@ -1,9 +1,8 @@
-## Hello! My name is Ayushka Talele.
-Currently using Java, Javascript and Python, and haved used GML, GDscript, SwiftUI, HTML, CSS, and RStudio.  
+## Hello! My name is Ayushka Talele.   
+Currently Creating a personal website on blender. Well, trying to.   
 3rd year on an FRC team, wiring the robot like there's no tomorrow.  
-Usually reading a book or playing minecraft.
-
-<!--![Metrics](github-metrics.svg)-->
+Usually reading a book or playing minecraft.   
+Trying my hand at crocheting and 3d modeling.   
 
 <hr>
 <details>
@@ -37,8 +36,6 @@ Usually reading a book or playing minecraft.
 ![Static Badge](https://img.shields.io/badge/Posit-.r-%23447099?style=for-the-badge&logo=posit&logoColor=%23447099&logoSize=auto&labelColor=black&color=%23447099)
 
 
-
-
 ## Repositories list:  
 ##### Memorable Repo's:
 
@@ -57,11 +54,12 @@ Usually reading a book or playing minecraft.
 ##### Girls who code Fall pathways (2025):  
 <sup>HTML, CSS: [Personal Website](https://github.com/xFork19/Ayushka-Taleles-website), [Personality Quiz](https://github.com/xFork19/Ayushkas-Personality-Quiz), [Alzheimers Website](https://github.com/xFork19/Alzheimers-Awareness).  
 Python:  [CyHelp](https://github.com/xFork19/Ayushka-T-CyHelp), [BreachBot](https://github.com/xFork19/Ayushka-T-Breach-Bot), [Caesar Cypher](https://github.com/xFork19/Ayushka-T-Caesars-Cipher) ,
-[Advanced Caesar Cypher](https://github.com/xFork19/Ayushka-T-Advanced-Caesars-Cipher), [Ceaser Cypher Breaker](https://github.com/xFork19/Ayushka-TCracking-Caesars-Cipher).  <sup>
+[Advanced Caesar Cypher](https://github.com/xFork19/Ayushka-T-Advanced-Caesars-Cipher), [Ceaser Cypher Breaker](https://github.com/xFork19/Ayushka-TCracking-Caesars-Cipher).
+<sup>
 
 ### Contacts
-![Static Badge](https://img.shields.io/badge/Instagram-%23FF0069?style=plastic&logo=instagram&logoColor=%23FF0069&logoSize=auto&labelColor=black&color=%23FF0069)
-![Static Badge](https://img.shields.io/badge/Gmail-%23181717?style=plastic&logo=gmail&logoColor=%23EA4335&logoSize=auto&labelColor=black&color=%23EA4335)
-![Static Badge](https://img.shields.io/badge/Substack-%23FF6719?style=plastic&logo=substack&logoColor=%23FF6719&logoSize=auto&labelColor=black&color=%23FF6719)
-![Static Badge](https://img.shields.io/badge/Snapchat-%23FFFC00?style=plastic&logo=snapchat&logoColor=%23FFFC00&logoSize=auto&labelColor=black&color=%23FFFC00)
-![Static Badge](https://img.shields.io/badge/Discord-%235865F2?style=plastic&logo=discord&logoColor=%235865F2&logoSize=auto&labelColor=black&color=%235865F2)
+[![Static Badge](https://img.shields.io/badge/Instagram-%23FF0069?style=plastic&logo=instagram&logoColor=%23FF0069&logoSize=auto&labelColor=black&color=%23FF0069)](https://www.instagram.com/ayushkatalele/)
+[![Static Badge](https://img.shields.io/badge/Gmail-%23181717?style=plastic&logo=gmail&logoColor=%23EA4335&logoSize=auto&labelColor=black&color=%23EA4335)](mailto:27ayushkat@gmail.com)
+[![Static Badge](https://img.shields.io/badge/Substack-%23FF6719?style=plastic&logo=substack&logoColor=%23FF6719&logoSize=auto&labelColor=black&color=%23FF6719)](https://substack.com/@onceuponatime19)
+[![Static Badge](https://img.shields.io/badge/Snapchat-%23FFFC00?style=plastic&logo=snapchat&logoColor=%23FFFC00&logoSize=auto&labelColor=black&color=%23FFFC00)](https://koolaidxxx.itch.io/)
+[![Static Badge](https://img.shields.io/badge/Discord-%235865F2?style=plastic&logo=discord&logoColor=%235865F2&logoSize=auto&labelColor=black&color=%235865F2)](https://discord.com/users/797293432372330497)
