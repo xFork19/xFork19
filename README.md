@@ -4,6 +4,7 @@ Currently Creating a personal website on blender. Well, trying to.
 Usually reading a book or playing minecraft.   
 Trying my hand at crocheting and 3d modeling.   
 
+![](https://komarev.com/ghpvc/?username=xFork19&color=blue)
 <hr>
 <details>
 <summary>Github Statistics...</summary>
@@ -63,5 +64,5 @@ Python:  [CyHelp](https://github.com/xFork19/Ayushka-T-CyHelp), [BreachBot](http
 [![Static Badge](https://img.shields.io/badge/Substack-%23FF6719?style=plastic&logo=substack&logoColor=%23FF6719&logoSize=auto&labelColor=black&color=%23FF6719)](https://substack.com/@onceuponatime19)
 [![Static Badge](https://img.shields.io/badge/Snapchat-%23FFFC00?style=plastic&logo=snapchat&logoColor=%23FFFC00&logoSize=auto&labelColor=black&color=%23FFFC00)](https://www.snapchat.com/add/ayushka24t)
 [![Static Badge](https://img.shields.io/badge/Spotify-%231ED760?style=plastic&logo=spotify&logoColor=%231ED760&labelColor=black&color=%231ED760)](https://open.spotify.com/user/w4h7z5a2efd5v1m6fomgdkxos)
-[![Static Badge](https://img.shields.io/badge/Discord-%235865F2?style=plastic&logo=discord&logoColor=%235865F2&logoSize=auto&labelColor=black&color=%235865F2)](https://discord.com/users/797293432372330497)
+[![Static Badge](https://img.shields.io/badge/Discord-%235865F2?style=plastic&logo=discord&logoColor=%235865F2&logoSize=auto&labelColor=black&color=%235865F2)](https://discord.com/users/797293432372330497)   
 
