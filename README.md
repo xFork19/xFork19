@@ -16,7 +16,7 @@ Currently Creating a personal website on blender.
     
   ![GitHub Stats](profile/stats.svg)&nbsp;&nbsp;&nbsp;&nbsp;
   ![Top Languages](profile/top-langs.svg)   
-  <!--![Wakatime Stats](profile/wakatime.svg)-->
+  ![Wakatime Stats](profile/wakatime.svg)
   ![My Pinned Project](profile/pin-stats-organization-github-readme-stats.svg)
 
     
