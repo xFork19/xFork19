@@ -1,8 +1,12 @@
+<img src="Banner.gif" alt="banner">
+
 ## Hello! My name is Ayushka Talele.   
-Currently Creating a personal website on blender. Well, trying to.   
-3rd year on an FRC team, wiring the robot like there's no tomorrow.  
-Usually reading a book or playing minecraft.   
-Trying my hand at crocheting and 3d modeling.   
+Currently Creating a personal website on blender.     
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>Well, trying to.</sup>   
+    
+    * 3rd year on an FRC team, wiring the robot like there's no tomorrow.  
+    * Usually reading a book or playing minecraft.   
+    * Trying my hand at crocheting and 3d modeling.   
 
 ![](https://komarev.com/ghpvc/?username=xFork19&color=blue)
 <hr>
