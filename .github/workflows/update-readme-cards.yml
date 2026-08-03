@@ -45,6 +45,7 @@ jobs:
         with:
           card: wakatime
           options: username=${{ github.repository_owner }}&layout=compact&theme=dark
+          path: profile/wakatime.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit cards
