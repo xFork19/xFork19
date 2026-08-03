@@ -27,7 +27,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&theme=dark
+          options: username=${{ github.repository_owner }}&langs_count=6&theme=dark
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -44,7 +44,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: wakatime
-          options: username=octocat&layout=compact&theme=dark
+          options: username=${{ github.repository_owner }}&layout=compact&theme=dark
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit cards
