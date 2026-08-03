@@ -11,10 +11,10 @@ Currently Creating a personal website on blender.
 ![](https://komarev.com/ghpvc/?username=xFork19&color=blue)
 <hr>
 <details>
-<summary>Github Statistics...</summary>
+<summary> Github Statistics...</summary>
   <p align="center">
     
-  ![GitHub Stats](profile/stats.svg)   
+  ![GitHub Stats](profile/stats.svg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   ![Top Languages](profile/top-langs.svg)   
     
 </details>
@@ -39,7 +39,10 @@ Platforms:
 [![Static Badge](https://img.shields.io/badge/Github-.git-%23181717?style=flat-square&logo=github&logoColor=%239E95B7&logoSize=auto&labelColor=black&color=%239E95B7)](https://github.com/)
 [![Static Badge](https://img.shields.io/badge/Gamemaker-.gml-%23000000?style=flat-square&logo=gamemaker&logoColor=grey&logoSize=auto&labelColor=black&color=grey)](https://gamemaker.io/en)
 
-## Repositories list:  
+<hr>
+<details>
+<summary>Repositories List</summary>    
+
 ##### Memorable Repo's:
 
 <sup>[Create Task](https://github.com/xFork19/Create-Task): 2024 AP exam submission.  
@@ -59,6 +62,8 @@ Platforms:
 Python:  [CyHelp](https://github.com/xFork19/Ayushka-T-CyHelp), [BreachBot](https://github.com/xFork19/Ayushka-T-Breach-Bot), [Caesar Cypher](https://github.com/xFork19/Ayushka-T-Caesars-Cipher) ,
 [Advanced Caesar Cypher](https://github.com/xFork19/Ayushka-T-Advanced-Caesars-Cipher), [Ceaser Cypher Breaker](https://github.com/xFork19/Ayushka-TCracking-Caesars-Cipher).
 <sup>
+</details>
+<hr>
 
 ### Contacts and Content
 ![Static Badge](https://img.shields.io/badge/Pintrest-%23BD081C?style=plastic&logo=pinterest&logoColor=%23BD081C&labelColor=black&color=%23BD081C)
