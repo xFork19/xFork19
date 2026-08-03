@@ -35,7 +35,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
-          options: username=stats-organization&repo=github-readme-stats
+          options: username=stats-organization&repo=github-readme-stats&theme=dark
           path: profile/pin-stats-organization-github-readme-stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -44,7 +44,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: wakatime
-          options: username=octocat&layout=compact
+          options: username=octocat&layout=compact&theme=dark
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit cards
