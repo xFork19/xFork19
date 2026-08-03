@@ -44,7 +44,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: wakatime
-          options: username=${{ github.repository_owner }}&theme=dark
+          options: username=xFork19&theme=dark
           path: profile/wakatime.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
