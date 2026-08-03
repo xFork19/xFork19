@@ -14,10 +14,10 @@ Currently Creating a personal website on blender.
 <summary> Github Statistics...</summary>
   <p align="center">
     
-  ![GitHub Stats](profile/stats.svg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  ![GitHub Stats](profile/stats.svg)&nbsp;&nbsp;&nbsp;&nbsp;
   ![Top Languages](profile/top-langs.svg)   
-  ![Wakatime Stats](profile/wakatime.svg)
-  ![My Pinned Project](profile/pin-project.svg)
+  <!--![Wakatime Stats](profile/wakatime.svg)-->
+  ![My Pinned Project](profile/pin-stats-organization-github-readme-stats.svg)
 
     
 </details>
