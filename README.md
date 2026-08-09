@@ -36,7 +36,7 @@ Languages:
 Platforms:
 [![Static Badge](https://img.shields.io/badge/Itch.io-.zip-%23FA5C5C?style=flat-square&logo=itch.io&logoColor=%23FA5C5C&logoSize=auto&labelColor=black&color=%23FA5C5C)](https://itch.io/)
 [![Static Badge](https://img.shields.io/badge/Replit-.replit-%23F26207?style=flat-square&logo=replit&logoColor=%23F26207&logoSize=auto&labelColor=black&color=%23F26207)](https://replit.com/)
-[![Static Badge](https://img.shields.io/badge/Blender-.toml-%23E87D0D?style=flat-square&logo=blender&logoColor=%23E87D0D&logoSize=auto&labelColor=black&color=%23E87D0D)](https://www.blender.org/)
+[![Static Badge](https://img.shields.io/badge/Blender-.blend-%23E87D0D?style=flat-square&logo=blender&logoColor=%23E87D0D&logoSize=auto&labelColor=black&color=%23E87D0D)](https://www.blender.org/)
 [![Static Badge](https://img.shields.io/badge/Godot%20Engine-.gd-%23478CBF?style=flat-square&logo=godot%20engine&logoColor=%23478CBF&logoSize=auto&labelColor=black&color=%23478CBF)](https://godotengine.org/)
 [![Static Badge](https://img.shields.io/badge/Posit-.r-%23447099?style=flat-square&logo=posit&logoColor=%23447099&logoSize=auto&labelColor=black&color=%23447099)](https://posit.co/downloads)
 [![Static Badge](https://img.shields.io/badge/Github-.git-%23181717?style=flat-square&logo=github&logoColor=%239E95B7&logoSize=auto&labelColor=black&color=%239E95B7)](https://github.com/)
