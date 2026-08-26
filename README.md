@@ -73,8 +73,9 @@ Python:  [CyHelp](https://github.com/xFork19/Ayushka-T-CyHelp), [BreachBot](http
 [![Static Badge](https://img.shields.io/badge/Instagram-%23FF0069?style=plastic&logo=instagram&logoColor=%23FF0069&logoSize=auto&labelColor=black&color=%23FF0069)](https://www.instagram.com/ayushkatalele/)
 [![Static Badge](https://img.shields.io/badge/Gmail-%23181717?style=plastic&logo=gmail&logoColor=%23EA4335&logoSize=auto&labelColor=black&color=%23EA4335)](mailto:27ayushkat@gmail.com)
 [![Static Badge](https://img.shields.io/badge/Itch.io-%23FA5C5C?style=plastic&logo=itch.io&logoColor=%23FA5C5C&logoSize=auto&labelColor=black&color=%23FA5C5C)](https://koolaidxxx.itch.io/)
-<!--[![Static Badge](https://img.shields.io/badge/Substack-%23FF6719?style=plastic&logo=substack&logoColor=%23FF6719&logoSize=auto&labelColor=black&color=%23FF6719)](https://substack.com/@onceuponatime19)-->
 [![Static Badge](https://img.shields.io/badge/Snapchat-%23FFFC00?style=plastic&logo=snapchat&logoColor=%23FFFC00&logoSize=auto&labelColor=black&color=%23FFFC00)](https://www.snapchat.com/add/ayushka24t)
 [![Static Badge](https://img.shields.io/badge/Spotify-%231ED760?style=plastic&logo=spotify&logoColor=%231ED760&labelColor=black&color=%231ED760)](https://open.spotify.com/user/w4h7z5a2efd5v1m6fomgdkxos)
 [![Static Badge](https://img.shields.io/badge/Discord-%235865F2?style=plastic&logo=discord&logoColor=%235865F2&logoSize=auto&labelColor=black&color=%235865F2)](https://discord.com/users/797293432372330497)   
+<!--[![Static Badge](https://img.shields.io/badge/Substack-%23FF6719?style=plastic&logo=substack&logoColor=%23FF6719&logoSize=auto&labelColor=black&color=%23FF6719)](https://substack.com/@onceuponatime19)-->
+
 
